@@ -1,4 +1,4 @@
-Timestamp,Department,Gender,Are you doing your undergraduate or postgraduate?,Reasons for not sleeping on time ,Tiredness,Major problem,Anxiety problem,Adequate sleep ,Types of  Anxiety problems 
+timestamp,department,gender,graduate,reason_not_sleep_on_time ,tiredness,major_problem,anxiety_problem,adequate_sleep ,types_of_anxiety 
 3.20.2023 15:44:28,Data Science,Female,Postgraduate,College works,No,College stress,Maybe,No,Nothing 
 3.20.2023 15:45:54,Data Science,Female,Undergraduate,Mobile phone,Yes,"Studies, College stress",Maybe,Yes,Muscle tension
 3.20.2023 15:46:05,Data Science,Female,Postgraduate,Having an habit of studying at night.,Sometimes tired,"Family, Money",Yes,Yes,Difficulty in breathing
