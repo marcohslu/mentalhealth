@@ -4,10 +4,10 @@ timestamp,department,gender,graduate,reason_not_sleep_on_time ,tiredness,major_p
 3.20.2023 15:46:05,Data Science,Female,Postgraduate,Having an habit of studying at night.,Sometimes tired,"Family, Money",Yes,Yes,Breathing issues
 3.20.2023 15:49:14,Data Science,Female,Postgraduate,I Am sleeping on time,No,College stress,No,No,Nothing
 3.20.2023 15:49:25,Data Science,Female,Postgraduate,Mobile,Yes,Studies,Yes,No,Shivering
-3.20.2023 15:50:40,Data Science,Male,Postgraduate,Overthinking,Sometimes tired,"Family, Relationship, Studies, College stress, Money",Maybe,No,"Feeling panic, fear and uneasiness"
+3.20.2023 15:50:40,Data Science,Male,Postgraduate,Overthinking,Sometimes tired,"Family, Relationship, Studies, College stress, Money",Maybe,No,Issue related to mental processes
 3.20.2023 15:52:16,Computer Science,Male,Postgraduate,1.Mobile2.Mobile3.Mobile,Yes,"Studies, College stress, Money",Maybe,No,Headache
 3.20.2023 15:53:16,Computer Science,Male,Postgraduate,Using mobile ,Sometimes tired,Money,Maybe,No,Chest pain
-3.20.2023 16:09:28,Information technology,Female,Undergraduate,Building my career skills and entertainment . ,Yes,Money,Yes,Yes,Mind stress
+3.20.2023 16:09:28,Information technology,Female,Undergraduate,Building my career skills and entertainment . ,Yes,Money,Yes,Yes,Issue related to mental processes
 3.20.2023 16:10:23,Data Science,Male,Postgraduate,Doing some works ,Sometimes tired,"Family, Studies, College stress, Money",Yes,No,Nightmares
 3.20.2023 16:13:12,Data Science,Male,Postgraduate,Playing with kids,Yes,"Family, Studies, College stress, Money",Yes,Yes,Headache
 3.20.2023 16:13:49,others,Female,Postgraduate,Depression ,Sometimes tired,"Family, Relationship, College stress, Money",Yes,No,Breathing issues 
@@ -30,18 +30,18 @@ timestamp,department,gender,graduate,reason_not_sleep_on_time ,tiredness,major_p
 3.20.2023 16:38:08,Data Science,Male,Postgraduate,Work pressure ,Sometimes tired,College stress,Maybe,No,Headache
 3.20.2023 16:39:03,Data Science,Male,Postgraduate,nothing,Sometimes tired,College stress,No,No,Nothing
 3.20.2023 16:39:08,Data Science,Male,Postgraduate,Depression ,No,"Family, Money",No,No,Nothing
-3.20.2023 16:41:09,Data Science,Male,Postgraduate,overthinking,Sometimes tired,"Relationship, Studies, College stress, Money, no girl friends",Yes,No,Flashbacks of traumatic experiences
+3.20.2023 16:41:09,Data Science,Male,Postgraduate,overthinking,Sometimes tired,"Relationship, Studies, College stress, Money, no girl friends",Yes,No,Issue related to mental processes
 3.20.2023 16:42:26,Mathematics,Female,Postgraduate,Lots of Classwork ,Sometimes tired,College stress,No,Yes,Nothing
-3.20.2023 17:14:01,Computer Science,Female,Undergraduate,Night only i will rest,Sometimes tired,No problem,No,Yes,Cold or sweaty hands
+3.20.2023 17:14:01,Computer Science,Female,Undergraduate,Night only i will rest,Sometimes tired,No problem,No,Yes,Sweating
 3.20.2023 17:15:10,Information technology,Male,Undergraduate,Using mobile phone,Yes,"Family, Relationship, Studies, College stress, Money",No,No,Shivering
 3.20.2023 17:27:42,Business Administration,Female,Postgraduate,Using mobile,Sometimes tired,College stress,Maybe,No,Headache
 3.20.2023 17:31:38,Information technology,Male,Undergraduate,Chat,Sometimes tired,Relationship,Yes,No,Muscle tension
 3.20.2023 18:05:34,Information technology,Male,Undergraduate,Memories or imagination distrub in my beginning of sleep ,Sometimes tired,"Family, Relationship, Studies, College stress, Money",Yes,No,Sweating
 3.20.2023 18:16:04,Information technology,Male,Undergraduate,Mobile,Yes,Relationship,No,Yes,Sweating
 3.20.2023 18:19:28,Mathematics,Female,Postgraduate,Work,No,College stress,No,Yes,Nothing
-3.20.2023 18:25:37,Information technology,Male,Undergraduate,Going to part time job,Sometimes tired,"Family, Relationship, Studies, College stress, Money",No,Yes,Cold or sweaty hands
+3.20.2023 18:25:37,Information technology,Male,Undergraduate,Going to part time job,Sometimes tired,"Family, Relationship, Studies, College stress, Money",No,Yes,Sweating
 3.20.2023 18:47:43,English,Male,Postgraduate,Tuition,Sometimes tired,Health issues of parents and need to support family financially. ,Maybe,Yes,Shivering
-3.20.2023 18:48:44,English,Female,Postgraduate,I sleep on time ,Sometimes tired,Mental health ,Yes,Yes,Cold or sweaty hands
+3.20.2023 18:48:44,English,Female,Postgraduate,I sleep on time ,Sometimes tired,Mental health ,Yes,Yes,Sweating
 3.20.2023 18:51:19,English,Female,Postgraduate,Iam sleeping on time ,Sometimes tired,"Family, Studies, College stress",Yes,Yes,Headache
 3.20.2023 18:55:59,English,Female,Postgraduate,Everyone in my house goes late to bed that's why ,Sometimes tired,.,Yes,No,Headache
 3.20.2023 18:56:01,English,Female,Postgraduate,Around 10.30 regular time,Sometimes tired,"Studies, Money",No,No,Sweating
@@ -50,13 +50,13 @@ timestamp,department,gender,graduate,reason_not_sleep_on_time ,tiredness,major_p
 3.20.2023 19:01:02,Mathematics,Female,Postgraduate,Using mobile phone and thinking about future.,Sometimes tired,"College stress, Money",Maybe,Yes,Sweating
 3.20.2023 19:06:15,English,Female,Postgraduate,"Because,iam a house wife ,so I have to prepare everything like house hold things kitchen work ect, so I couldn't sleep at time",Sometimes tired,"Family, College stress, Money",Maybe,Yes,Sweating
 3.20.2023 19:07:19,Computer Science,Female,Postgraduate,Noon sleep,Sometimes tired,"Family, Money",Yes,Yes,Breathing issues
-3.20.2023 19:11:11,English,Female,Postgraduate,Depression & Overthinking,Sometimes tired,Family,Yes,No,"Feeling panic, fear and uneasiness"
-3.20.2023 19:13:36,English,Female,Postgraduate,I don't know exact reason,Sometimes tired,Money,Yes,Yes,Stress 
+3.20.2023 19:11:11,English,Female,Postgraduate,Depression & Overthinking,Sometimes tired,Family,Yes,No,Issue related to mental processes
+3.20.2023 19:13:36,English,Female,Postgraduate,I don't know exact reason,Sometimes tired,Money,Yes,Yes,Issue related to mental processes 
 3.20.2023 19:24:37,others,Male,Undergraduate,Due to workload,Yes,"Studies, College stress, Money",Yes,No,Chest pain
-3.20.2023 19:38:20,Mathematics,Female,Undergraduate,---,Sometimes tired,"Family, Nothing ",Maybe,No,Cold or sweaty hands
+3.20.2023 19:38:20,Mathematics,Female,Undergraduate,---,Sometimes tired,"Family, Nothing ",Maybe,No,Sweating
 3.20.2023 20:13:52,Mathematics,Female,Postgraduate,Using social media ,Yes,Money,Yes,Yes,Nightmares
 3.20.2023 20:16:49,Information technology,Male,Undergraduate,Using of Mobile ,Sometimes tired,College stress,No,No,Chest pain
-3.20.2023 20:21:41,others,Male,Postgraduate,Not coming ,Yes,"College stress, Money",Yes,Yes,"Feeling panic, fear and uneasiness"
+3.20.2023 20:21:41,others,Male,Postgraduate,Not coming ,Yes,"College stress, Money",Yes,Yes,Issue related to mental processes
 3.20.2023 20:24:39,English,Female,Postgraduate, Some kind of thinking,Sometimes tired,Money,No,No,Nothing
 3.20.2023 20:24:40,Computer Science,Female,Postgraduate,Headache ,Sometimes tired,"Family, Studies, College stress, Money, ",Maybe,No,Nightmares
 3.20.2023 20:28:10,English,Female,Postgraduate,I will sleep on time,Sometimes tired,Money,No,No,Nothing
@@ -79,11 +79,11 @@ timestamp,department,gender,graduate,reason_not_sleep_on_time ,tiredness,major_p
 3.20.2023 22:25:43,Computer Science,Male,Undergraduate,Work and pressure ,Sometimes tired,"Studies, College stress",No,No,Nothing
 3.20.2023 22:48:05,Data Science,Male,Undergraduate,I don't know ,Sometimes tired,Money,No,No,Nothing
 3.20.2023 23:16:21,Data Science,Male,Postgraduate,Studying,Sometimes tired,"Family, Relationship, Studies, College stress, Money",No,No,Headache
-3.21.2023 6:53:58,Economics,Male,Postgraduate,Didn't sleep come crt time,Sometimes tired,"Family, Relationship, College stress, Money",Maybe,Yes,"Feeling panic, fear and uneasiness"
+3.21.2023 6:53:58,Economics,Male,Postgraduate,Didn't sleep come crt time,Sometimes tired,"Family, Relationship, College stress, Money",Maybe,Yes,Issue related to mental processes
 3.21.2023 7:24:41,Social Work,Female,Postgraduate,Playing with mobile phone,Sometimes tired,"Studies, Money",Maybe,No,Headache
 3.21.2023 8:33:51,Social Work,Female,Postgraduate,I don't know,Sometimes tired,"College stress, Money",Yes,Yes,Headache
 3.21.2023 8:50:45,Social Work,Male,Postgraduate,Playing with friends,Yes,"Relationship, College stress, Money",No,Yes,Headache
-3.21.2023 8:52:25,Social Work,Female,Postgraduate,I mostly do my bending work in the night and study,Sometimes tired,"College stress, ",Yes,Yes,"Almost all except headache,flashbacks, night mares "
+3.21.2023 8:52:25,Social Work,Female,Postgraduate,I mostly do my bending work in the night and study,Sometimes tired,"College stress, ",Yes,Yes,Issue related to mental processes
 3.21.2023 8:54:37,Social Work,Female,Postgraduate,Practicesd ,Sometimes tired,College stress,Yes,No,Shivering
 3.21.2023 10:34:25,English,Female,Postgraduate,Nothing ,Sometimes tired,Nothing ,Maybe,Yes,Nothing
 3.21.2023 10:45:19,English,Female,Postgraduate,Don't know,Sometimes tired,College stress,Maybe,Yes,Headache
@@ -91,10 +91,10 @@ timestamp,department,gender,graduate,reason_not_sleep_on_time ,tiredness,major_p
 3.21.2023 15:52:03,Data Science,Male,Postgraduate,thinking about future,Sometimes tired,Studies,No,No,Nothing
 3.21.2023 19:40:57,English,Female,Postgraduate,No,Sometimes tired,Job,Maybe,No,Cold or sweaty hands
 3.23.2023 15:29:26,English,Female,Postgraduate,House work and college work,Sometimes tired,Studies,No,No,Headache
-3.23.2023 17:46:41,Computer Science,Male,Postgraduate,Watch movies ,Sometimes tired,Money,No,No,Stammering 
+3.23.2023 17:46:41,Computer Science,Male,Postgraduate,Watch movies ,Sometimes tired,Money,No,No,Other 
 3.23.2023 19:48:47,English,Female,Postgraduate,For habitual condition,Sometimes tired,Money,No,Yes,Nothing
-3.23.2023 19:55:22,English,Female,Postgraduate,For habitual condition,Sometimes tired,Family,No,Yes,Diabetic 
-3.23.2023 20:40:45,Data Science,Male,Postgraduate,Some personal problems ,Sometimes tired,"Studies, College stress, Money",No,Yes,Hair fall 
+3.23.2023 19:55:22,English,Female,Postgraduate,For habitual condition,Sometimes tired,Family,No,Yes,Other 
+3.23.2023 20:40:45,Data Science,Male,Postgraduate,Some personal problems ,Sometimes tired,"Studies, College stress, Money",No,Yes,Other 
 3.23.2023 20:43:51,Data Science,Female,Postgraduate,"Watching reels, Doing works related to studies, simply sitting with fully blank mind etc.",Yes,"Family, Studies, College stress, Money, Sometimes i Don't have any ideas what to do next, physical health. ",Yes,No,Sweating
 3.23.2023 20:51:25,Data Science,Female,Postgraduate,Doing some work,Yes,"Family, Studies, College stress, Money",Yes,Yes,Nightmares
 3.23.2023 21:09:31,English,Female,Postgraduate,Doing some work ,Sometimes tired,Money,Maybe,Yes,Headache
